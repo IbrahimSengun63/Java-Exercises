@@ -16,6 +16,12 @@ import com.ibrahim.arrayList.shuffle_array_list.ShuffleArrayList;
 import com.ibrahim.arrayList.sort_array_list.SortArrayList;
 import com.ibrahim.arrayList.swap_array_list.SwapArrayList;
 import com.ibrahim.arrayList.update_array_list.UpdateArrayList;
+import com.ibrahim.linkedList.append_linked_list.AppendLinkedList;
+import com.ibrahim.linkedList.check_linked_list.CheckLinkedList;
+import com.ibrahim.linkedList.get_linked_list.GetLinkedList;
+import com.ibrahim.linkedList.insert_linked_list.InsertLinkedList;
+import com.ibrahim.linkedList.iterate_linked_list.IterateLinkedList;
+import com.ibrahim.linkedList.join_linked_list.JoinLinkedList;
 
 public class Main {
     public static void main(String[] args) {
@@ -37,5 +43,12 @@ public class Main {
         //CloneArrayList.cloneArrayList();
         //EmptyArrayList.emptyArrayList();
         //CheckArrayList.checkArrayList();
+        //////////////////////////////////
+        //AppendLinkedList.appendLinkedList();
+        //IterateLinkedList.iterateLinkedList();
+        //InsertLinkedList.insertLinkedList();
+        //GetLinkedList.getLinkedList();
+        //JoinLinkedList.joinLinkedList();
+        //CheckLinkedList.checkLinkedList();
     }
 }
