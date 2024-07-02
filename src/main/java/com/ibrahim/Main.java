@@ -23,6 +23,7 @@ import com.ibrahim.linkedList.get_linked_list.GetLinkedList;
 import com.ibrahim.linkedList.insert_linked_list.InsertLinkedList;
 import com.ibrahim.linkedList.iterate_linked_list.IterateLinkedList;
 import com.ibrahim.linkedList.join_linked_list.JoinLinkedList;
+import com.ibrahim.treeSet.TreeSetExercise;
 
 public class Main {
     public static void main(String[] args) {
@@ -63,5 +64,18 @@ public class Main {
         //HashSetExercise.convertHashSetToList();
         //HashSetExercise.compareHashSet();
         //HashSetExercise.compareAndRetainHashSet();
+        //////////////////////////////////////////
+        //TreeSetExercise.createTreeSet();
+        //TreeSetExercise.iterateTreeSet();
+        //TreeSetExercise.addAllTreeSet();
+        //TreeSetExercise.reverseTreeSet();
+        //TreeSetExercise.getTreeSet();
+        //TreeSetExercise.cloneTreeSet();
+        //TreeSetExercise.sizeTreeSet();
+        //TreeSetExercise.compareTreeSet();
+        //TreeSetExercise.findTreeSet();
+        //TreeSetExercise.greaterOrEquealTreeSet();
+        //TreeSetExercise.removeAndRetrieveTreeSet();
+
     }
 }
