@@ -16,6 +16,7 @@ import com.ibrahim.arrayList.shuffle_array_list.ShuffleArrayList;
 import com.ibrahim.arrayList.sort_array_list.SortArrayList;
 import com.ibrahim.arrayList.swap_array_list.SwapArrayList;
 import com.ibrahim.arrayList.update_array_list.UpdateArrayList;
+import com.ibrahim.hashSet.HashSetExercise;
 import com.ibrahim.linkedList.append_linked_list.AppendLinkedList;
 import com.ibrahim.linkedList.check_linked_list.CheckLinkedList;
 import com.ibrahim.linkedList.get_linked_list.GetLinkedList;
@@ -50,5 +51,17 @@ public class Main {
         //GetLinkedList.getLinkedList();
         //JoinLinkedList.joinLinkedList();
         //CheckLinkedList.checkLinkedList();
+        /////////////////////////////////////
+        //HashSetExercise.appendHashSet();
+        //HashSetExercise.iterateHashSet();
+        //HashSetExercise.lengthHashSet();
+        //HashSetExercise.clearHashSet();
+        //HashSetExercise.checkHashSet();
+        //HashSetExercise.cloneHashSet();
+        //HashSetExercise.convertHashSet();
+        //HashSetExercise.convertHashSetToTreeSet();
+        //HashSetExercise.convertHashSetToList();
+        //HashSetExercise.compareHashSet();
+        //HashSetExercise.compareAndRetainHashSet();
     }
 }
